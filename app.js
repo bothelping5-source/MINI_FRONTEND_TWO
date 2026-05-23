@@ -1,5 +1,5 @@
 const tg = window.Telegram.WebApp;
-const API_URL = "https://mini-app-two-8l49.onrender.com"; // <-- TERA BACKEND URL DALNA HAI
+const API_URL = "https://mini-app-two-puaz.onrender.com"; // <-- TERA BACKEND URL DALNA HAI
 let userId = "UNKNOWN";
 let selectedPair = "EUR/USD OTC"; // Default
 let selectedTimeframe = "60"; 
